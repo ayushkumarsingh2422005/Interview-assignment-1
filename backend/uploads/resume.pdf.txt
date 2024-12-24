@@ -1,0 +1,54 @@
+Ayush Kumar Singh  
+ its-ayushkrsingh  |  +91 8299797516  | 🌐 website  |  ayush.kr.com petition@gmail.com |  GitHub  
+ 
+Education   
+B.Tech,  NIT Jamshedpur  Jharkhand,  India 08/2023  - Present  
+Computer Science and Engineering  - 8.44 CGPA  
+12th, St. Thomas School, Chunar  Uttar  Pradesh,  India 08/2020  - 06/2022  
+Mathematics  - 85% 
+Skills   
+Programming  Languages : C, C++,  Core  Java,  Python,  JavaScript,  Shell  
+Web Technologies:  HTML,  CSS,  Tailwind  CSS,  JavaScript,  Node.js,  Express,  Mongoose,  JWT, JQuerry , SEO  
+Frameworks  & Libraries : React .js, Nodemailer , GSAP , Payments gateway  
+Databases:  MySQL , MongoDB  
+Software  & Tools:  Visual  Studio  Code,  Linux,  Git, Postman , Docker , Firebase , Nginx  
+Projects    
+Client management system : GitHub  (07/2024)  
+Full Stack  Developer  | Technologies:  Next js,  Tailwind  CSS , CMS, GSAP, Framer -motion , GSAP , Brevo.  
+● Built and maintained  a comprehensive  web application  with Next.js,  employing  NextAuth  for client  security;  ach
+ieved  a 50%  reduction  in reported  inquiry  issues,  ensuring  a safer  environment  for user interactions  and data. 
+● Integrated advanced features  including Newsletter management , marketing tools , project and testimonial  
+showcases , and an inquiry management system  in the admin panel, enabling streamlined operations for 100+ 
+clients . 
+● Achievements:  Enhanced administrative processes by implementing feature -rich backend tools, achieving a 
+remarkable 70% boost in operational e fficiency  for over 100 clients  benefiting from the improved system . 
+Aash India : GitHub  (04/2024)  
+Backend  Developer  | Technologies:  EJS,  bcrypt,  JWT,  Mongoose,  Express,  Cloudinary,  Multer,  Postman  
+● Aash  India is a secure system for user registration and coupon management. It utilizes  JWT for 
+authentication , Multer for storage, and Postman for API testing , improving security and functionality.  
+● Achievements:  Successfully  installed by 1k+ people across many cities of India . 
+Codophile : GitHub  (03/2023)  
+Full Stack Project | Technologies:  Django,  STL, CSS, Auth 
+● Codophile  is a CSS code generator and learning platform  made  using Django , Python , and MySQL , attracting 
+3,00+ active monthly users  and generating 5,000+ unique CSS snippets . 
+● Optimized user engagement  with an interactive UI/UX, increasing average session duration by 40%  and improving 
+retention rate by 30%  through gamified learning features and real -time code previews  
+Experience    
+Btbs : (Tech  Mentor)  (05/2024  - 06/2024)  
+● Mentored  & Guided:  Supported  50+ junior  developers  in mastering  technologies  like React, Node.js,  Express, 
+MongoDB, and JWT.  
+● Technical  Sessions:  Conducted a series of 10+ engaging technical workshops that enriched members  
+Achievements    
+Hostofic : (Freelancing Project)  (08/2024 - 10/2024) 
+Designed and implemented a customer query resolution system and enhanced clients' online presence, 
+achieving a 50% increase in customer engagement  through a custom -built, SEO -friendly website.  
+Active GitHub  Contributor : 
+● Achieved 300+ contributions  with 40+ PRs successfully merged, demonstrating strong collaboration and 
+teamwork.  
+Codeforces : Solved 50+ problems and have secured 970+ ratings in Contests  on Codeforces . 
+Leadership    
+Networking Coordinator (Soft Skill Club):  (2023 -Present ) 
+● Demonstrated  leadership : Facilitating opportunities for my batchmates to secure their career goals, 
+enhancing their professional growth . 
+Sankalp Navodaya Member  (2023 -Present ) 
+● Helping Hand:  Provided educational support to  20+ Navodaya students, helping them excel in their studies  

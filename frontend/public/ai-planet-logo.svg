@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer circle border -->
+  <circle cx="20" cy="20" r="19" stroke="#00C170" stroke-width="2" fill="none"/>
+  
+  <!-- Green circle background -->
+  <circle cx="20" cy="20" r="16" fill="#00C170"/>
+  
+  <!-- "ai" text in white with precise positioning and styling -->
+  <text 
+    x="50%" 
+    y="55%" 
+    fill="white" 
+    font-family="Arial, sans-serif" 
+    font-weight="600" 
+    font-size="16"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >ai</text>
+</svg> 
